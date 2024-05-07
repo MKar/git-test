@@ -1,3 +1,5 @@
+add 1st message in newbranch
+
 changes to be reverted
 
 
